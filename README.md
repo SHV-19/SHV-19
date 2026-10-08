@@ -49,6 +49,14 @@ The system connects opportunity discovery, verified Candidate Identity, structur
 
 ## Selected Projects
 
+### [FPL Decision Engine — Sports Decision Intelligence](https://github.com/SHV-19/FPL-Decision-Engine)
+
+A curated-source, local-first Fantasy Premier League system bringing together Official FPL squad authority, LiveFPL rank context, AI Deep Dive proposals, deterministic team-legality checks and gameweek research. Its central question is not merely *who scores most?*, but *what is the right action under squad, budget and competitive constraints?*
+
+**Stack:** PowerShell · HTML/JavaScript · FPL APIs · LiveFPL · AI reasoning · GitHub Actions
+
+[Published Source](https://github.com/SHV-19/FPL-Decision-Engine/tree/main/src) · [Case Study](https://github.com/SHV-19/FPL-Decision-Engine/blob/main/docs/PRODUCT_CASE_STUDY.md) · [Decision Engine](https://github.com/SHV-19/FPL-Decision-Engine/blob/main/docs/DECISION_ENGINE.md)
+
 ### [FIFA World Cup 2026 Sponsorship Analytics Platform](https://github.com/SHV-19/FIFA-2026-AI-Sponsorship-Analytics-Platform)
 
 End-to-end analytics platform combining governed data pipelines, executive BI, and conversational analytics for sponsorship decision support.
@@ -115,4 +123,4 @@ Open to **Data Analyst, Business Intelligence, Product Analytics, Operations Ana
 
 I am especially interested in work where **business context + data + automation + decision support** come together to improve measurable outcomes.
 
-If SwapOpt is the most relevant example of how I think, the rest of my portfolio shows how I apply that thinking across BI, analytics, predictive modeling, and operational decision support.
+SwapOpt is my flagship example of evidence-grounded product thinking. FPL Decision Engine applies the same disciplined decision loop in sports; FIFA 2026 and the broader portfolio demonstrate commercial BI, forecasting and operational analytics.
